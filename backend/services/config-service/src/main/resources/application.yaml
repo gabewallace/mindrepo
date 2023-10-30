@@ -6,5 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/gabewallace/mindrepo.git"
-          default-label: "dev"
+          uri: 'https://github.com/gabewallace/mindrepo.git'
+          searchPaths: "config/"
+          default-label: 'dev'
