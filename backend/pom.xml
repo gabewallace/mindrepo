@@ -17,9 +17,9 @@
     </properties>
 
     <modules>
-        <module>auth-service</module>
-        <module>config-service</module>
-        <module>config-client-service</module>
+        <module>services/auth-service</module>
+        <module>services/config-service</module>
+        <module>services/config-client-service</module>
     </modules>
 
 </project>
