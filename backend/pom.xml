@@ -13,13 +13,11 @@
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <services.dir>services</services.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <modules>
         <module>services/config-service</module>
-        <module>services/config-client-service</module>
     </modules>
 
 </project>
